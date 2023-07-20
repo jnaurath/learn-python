@@ -1,6 +1,11 @@
-# 0 Basics
+# 0.0 Hello World
 
 [Back to chapter overview](../README.md)
+
+[< back](../README.md) ---
+[next >](1-python-files.md)
+
+---
 
 ## Requirements
 
@@ -50,3 +55,10 @@ or open a new terminal with the menu bar:
 type `python helloworld.py` to see your output `Hello World`
 
 easy :)
+
+---
+
+[Back to chapter overview](../README.md)
+
+[< back](../README.md) ---
+[next >](1-python-files.md)
