@@ -1,4 +1,4 @@
-# 0.2 Lists
+# 0.3 Lists
 
 [Back to chapter overview](../README.md)
 
