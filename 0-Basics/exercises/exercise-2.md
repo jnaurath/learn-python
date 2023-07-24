@@ -1,13 +1,11 @@
-# 0.5 exercise
+# 0.2 exercise
 
-[Back to chapter overview](../README.md)
+[Back to chapter overview](../../README.md)
 
-[< back](4-loops-and-conditions.md) ---
-[next >](0-hello-world.md)
+[< back](exercise-1.md) ---
+[next >](../../README.md)
 
 ---
-
-## Time for your first exercise :)
 
 ### 1. In- & Output
 
@@ -32,11 +30,11 @@ Write a program which expects the user to write
 to the console for 5 times. If there is any mistake print out an error message and start over new.
 When the user completes this task, congratulate him and show the number of errors. Then you're done with this exercise :)
 
-<img src="images/simpsons.png" heigth="400px">
+<img src="../images/simpsons.png" heigth="400px">
 
 ---
 
-[Back to chapter overview](../README.md)
+[Back to chapter overview](../../README.md)
 
-[< back](4-loops-and-conditions.md) ---
-[next >](0-hello-world.md)
+[< back](exercise-1.md) ---
+[next >](../../README.md)
