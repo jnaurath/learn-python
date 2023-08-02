@@ -3,7 +3,7 @@
 [Back to chapter overview](../README.md)
 
 [< back](3-lists.md) ---
-[next >](exercises/exercise-1.md)
+[next >](5-mathematical-operators.md)
 
 ---
 
@@ -82,4 +82,4 @@ Typical expressions are:
 [Back to chapter overview](../README.md)
 
 [< back](3-lists.md) ---
-[next >](exercises/exercise-1.md)
+[next >](5-mathematical-operators.md)
