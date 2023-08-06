@@ -3,7 +3,7 @@
 [Back to chapter overview](../../README.md)
 
 [< back](exercise-1.md) ---
-[next >](../../README.md)
+[next >](exercise-3.md)
 
 ---
 
@@ -45,4 +45,4 @@ When the user completes this task, congratulate him and show the number of error
 [Back to chapter overview](../../README.md)
 
 [< back](exercise-1.md) ---
-[next >](../../README.md)
+[next >](exercise-3.md)

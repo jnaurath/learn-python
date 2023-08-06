@@ -11,3 +11,4 @@
   - [Mathematical Operators](0-Basics/5-mathematical-operators.md)
   - [Exercise 1](0-Basics/exercises/exercise-1.md)
   - [Exercise 2](0-Basics/exercises/exercise-2.md)
+  - [Exercise 2](0-Basics/exercises/exercise-3.md)
