@@ -7,6 +7,28 @@
 
 ---
 
+## if statement
+
+To execute commands only in certain conditions you can use if statements. It checks the value of the condition and executes the following intended code lines when the condition is true.
+You can also provide an optional else block or even add more if conditions in an else if (elif in python) statement.
+
+```python
+age = 14
+
+if age < 3:
+    print("free time")
+elif age < 6:
+    print("kindergarten")
+elif age < 18:
+    print("school")
+elif age < 25:
+    print("university")
+elif age > 65:
+    print("free time")
+else:
+    print("work")
+```
+
 ## Loops
 
 ### For

@@ -34,6 +34,29 @@ print(True and True)    # True
 print(3 < 4 and 4 >= 4)    # True
 print(3 < 4 and 4 >= 4)    # True
 
+
+# negation of boolean operators
+# if you want to negate the whole expression you have to negate the values and change or <-> and
+conditions = [False, True]
+for c1 in conditions:
+    for c2 in conditions:
+        print(f"{str(c1)} AND {str(c2)} : {c1 and c2}")
+
+print("---")
+
+for c1 in conditions:
+    for c2 in conditions:
+        print(f"!({str(c1)} AND {str(c2)}) : {not (c1 and c2)}")
+
+
+print("---")
+
+
+for c1 in conditions:
+    for c2 in conditions:
+        print(f"!{str(c1)} OR !{str(c2)} : {not c1 or not c2}")
+
+
 # example
 name = "Hans"
 age = 0
@@ -42,7 +65,7 @@ currentYear = 2023
 
 minimalPensionAge = 67
 
-print("We welcome our little", name, "geboren", startYear)
+print("We welcome our little", name, "born", startYear)
 
 for i in range(101):
     print("Iteration:", i, "Year:", currentYear)

@@ -62,6 +62,20 @@ Input: 5
 
 Output: 5! = 1*2*3*4*5 = 120
 
+### 6 Fibonacci
+
+Calculate the fibonacci numbers to a number given by the user (n).
+
+fib(0) = 0
+fib(1) = 1
+fib(n) = fib(n-1) + fib(n-2)
+
+Example:
+
+Input: 5
+
+Output: fib(6) = 8
+
 ---
 
 [Back to chapter overview](../../README.md)
