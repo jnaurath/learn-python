@@ -3,7 +3,7 @@
 [Back to chapter overview](../README.md)
 
 [< back](../0-Basics/5-mathematical-operators.md) ---
-[next >](../README.md)
+[next >](./1-how-to-find-errors-in-my-code.md)
 
 ---
 
@@ -66,4 +66,4 @@ result = multiplyTwoNumbers(result, 2) # result: 14
 [Back to chapter overview](../README.md)
 
 [< back](../0-Basics/5-mathematical-operators.md) ---
-[next >](../README.md)
+[next >](./1-how-to-find-errors-in-my-code.md)

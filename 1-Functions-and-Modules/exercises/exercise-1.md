@@ -30,6 +30,6 @@ Convert the temperature from celsius to fahrenheit depending on the user input. 
 inputTemperature = int(input("Temperature: ")) # example: 29
 inputUnit = input("Celsius / Fahrenheit: ") # example: C
 
-print(f"{inputTemperature}° {inputUnit} <=> {convertTemperature(inputTemperature, inputUnit)}° {convertUnit(inputUnit)}")
+print(f"{inputTemperature}° {inputUnit} <=> {round(convertTemperature(inputTemperature, inputUnit),2)}° {convertUnit(inputUnit)}")
 # returns: 29° C <=> 84.2° F
 ```

@@ -19,6 +19,8 @@
 ### 1. Functions and Modules
 
 - [Function Declarations](1-Functions-and-Modules/0-function-declaration.md)
+- [How to find errors in my code](1-Functions-and-Modules/1-how-to-find-errors-in-my-code.md)
+- [Random module](1-Functions-and-Modules/2-random.md)
 - Exercises:
 
   - [Exercise 1](1-Functions-and-Modules/exercises/exercise-1.md)
