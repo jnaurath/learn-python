@@ -24,3 +24,4 @@
 - Exercises:
 
   - [Exercise 1](1-Functions-and-Modules/exercises/exercise-1.md)
+  - [Exercise 2](1-Functions-and-Modules/exercises/exercise-2.md)
