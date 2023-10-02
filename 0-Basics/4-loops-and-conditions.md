@@ -48,6 +48,14 @@ for i in range(10):
     print(i)
 ```
 
+You can use the range function to fill a list with new items:
+
+```python
+myList = []
+for i in range(10):
+    myList.append(i)
+```
+
 To exit the loop before you reached the last value, add a `break` command:
 
 ```python
