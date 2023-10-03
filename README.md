@@ -21,6 +21,9 @@
 - [Function Declarations](1-Functions-and-Modules/0-function-declaration.md)
 - [How to find errors in my code](1-Functions-and-Modules/1-how-to-find-errors-in-my-code.md)
 - [Random module](1-Functions-and-Modules/2-random.md)
+- [Local and global variables](1-Functions-and-Modules/3-local-global.md)
+- [Multidimensional Lists](1-Functions-and-Modules/4-multidimensional-lists.md)
+- [File Handling](1-Functions-and-Modules/5-file-handling.md)
 - Exercises:
 
   - [Exercise 1](1-Functions-and-Modules/exercises/exercise-1.md)
