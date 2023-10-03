@@ -3,7 +3,7 @@
 [Back to chapter overview](../README.md)
 
 [< back](./1-how-to-find-errors-in-my-code.md) ---
-[next >](../README.md)
+[next >](./3-local-global.md)
 
 ---
 
@@ -33,4 +33,4 @@ print(random.randint(1, 6)) # dice
 [Back to chapter overview](../README.md)
 
 [< back](./1-how-to-find-errors-in-my-code.md) ---
-[next >](../README.md)
+[next >](./3-local-global.md)
